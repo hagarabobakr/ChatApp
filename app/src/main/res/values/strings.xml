@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="create_account">Create Account</string>
+    <string name="user_name_error">Please enter user name</string>
+    <string name="add_room_title">Add Room</string>
+    <string name="sports">Sports</string>
+    <string name="Music">Music</string>
+    <string name="movies">Movies</string>
+    <string name="Please_enter_your_name">Please enter your name</string>
+    <string name="Please_enter_your_email">Please enter your email</string>
+    <string name="please_enter_password">please enter password</string>
+    <string name="please_renter_password">please re-enter password</string>
+    <string name="doesnot_match">doesn\'t match</string>
+    <string name="Please_enter_a_valid_email">Please enter a valid email</string>
+</resources>
